@@ -188,7 +188,7 @@ plt.show()
     
 
 
-![png](output_17_1.png)
+![png](png-1.png)
 
 
 #### Analysis : -
@@ -221,7 +221,7 @@ plt.show()
     
 
 
-![png](output_20_1.png)
+![png](png-2.png)
 
 
 #### Analysis : -
@@ -253,7 +253,7 @@ plt.show()
     
 
 
-![png](output_23_1.png)
+![png](png-3.png)
 
 
 #### Analysis : -
