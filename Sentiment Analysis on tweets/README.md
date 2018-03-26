@@ -5,6 +5,7 @@
 * Preprocessing of tweets by removing URLS, mentions and replacing # by keyword "hashtag".
 * Use Multinomial Naive Bayes and Logistic regression to learn and predict customer sentiments.
 * Plot a learning-curve for both models.
+* Complete code can be found [here](Code/Sentiment Analysis (git).ipynb)
 
 #### Loading Data: -
 
