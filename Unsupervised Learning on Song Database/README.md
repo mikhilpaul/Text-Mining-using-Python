@@ -6,7 +6,8 @@
 * Apply Latent Semantic Analysis to reduce dimension and to apply clustering on concepts.
 * Find Best K value using 'Elbow' method.
 * Measure performance of the model using inertia.
-* Plot cluster in 2D for exploratory analysis
+* Plot cluster in 2D for exploratory analysis.
+* Complete code can be found [here](Code/Clustering_LDA.ipynb)
 
 #### Q1: Load all data and vectorize it with tf-idf vectorization.
 
